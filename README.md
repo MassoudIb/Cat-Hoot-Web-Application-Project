@@ -200,6 +200,3 @@ Gardez le même courriel de _commiter_, peu importe l'ordinateur que vous utilis
 
 Si vous n'êtes pas familiers avec Git et le fonctionnement des branches, nous vous recommandons fortement d'explorer [ce guide interactif](https://onlywei.github.io/explain-git-with-d3/).
 
-## Lectures suggérées
-
-[AntiPatterns](https://sourcemaking.com/antipatterns) (plus spécifiquement [Software Development AntiPatterns](https://sourcemaking.com/antipatterns/software-development-antipatterns))
