@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1a2b3c",
+        "title": "Questionnaire sur le JS",
+        "description": "Questions de pratique sur le langage JavaScript",
+        "duration": 10,
+        "lastModification": "2018-11-13T20:20:39+00:00",
+        "questions": [
+            {
+                "type": "QCM",
+                "text": "Parmi les mots suivants, lesquels sont des mots clés réservés en JS?",
+                "points": 40,
+                "choices": [
+                    {
+                        "text": "var",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "self",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "this",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "int",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "type": "QCM",
+                "text": "Quel compagnie a développé le framework Angular ?",
+                "points": 60,
+                "choices": [
+                    {
+                        "text": "Google",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "Apple",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Sony",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Alibaba",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "type": "QCM",
+                "text": "Est-ce qu'on le code suivant lance une erreur : const a = 1/NaN; ? ",
+                "points": 20,
+                "choices": [
+                    {
+                        "text": "Non",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "Oui",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    }
+]

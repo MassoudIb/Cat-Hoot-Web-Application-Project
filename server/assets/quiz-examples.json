@@ -1,0 +1,215 @@
+[
+    {
+        "id": "1a2b3c",
+        "title": "Questionnaire sur le JS",
+        "description": "Questions de pratique sur le langage JavaScript",
+        "duration": 60,
+        "isVisible": false,
+        "lastModification": "2018-11-13T20:20:39+00:00",
+        "questions": [
+            {
+                "type": "QCM",
+                "text": "Parmi les mots suivants, lesquels sont des mots clés réservés en JS?",
+                "points": 40,
+                "choices": [
+                    {
+                        "text": "var",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "self",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "this",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "int",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "type": "QCM",
+                "text": "Quel compagnie a développé le framework Angular ?",
+                "points": 60,
+                "choices": [
+                    {
+                        "text": "Google",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "Apple",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Sony",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Alibaba",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "type": "QCM",
+                "text": "Est-ce qu'on le code suivant lance une erreur : const a = 1/NaN; ? ",
+                "points": 20,
+                "choices": [
+                    {
+                        "text": "Non",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "Oui",
+                        "isCorrect": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "110101",
+        "title": "Questionnaire sur les chats!",
+        "description": "Questions sur les caractéristiques spécifiques aux chats. ",
+        "duration": 60,
+        "isVisible": true,
+        "lastModification": "2018-11-13T20:20:39+00:00",
+        "questions": [
+            {
+                "type": "QCM",
+                "text": "Quel est la meilleure race de chat?",
+                "points": 40,
+                "choices": [
+                    {
+                        "text": "Persan",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Peterbald",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "Savannah",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Thaï",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "type": "QCM",
+                "text": "Combien de vies ont les chats?",
+                "points": 60,
+                "choices": [
+                    {
+                        "text": "1",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "8",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "3",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "9",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "type": "QCM",
+                "text": "Est-ce que les chats sont des mammifères? ",
+                "points": 20,
+                "choices": [
+                    {
+                        "text": "Non",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Oui",
+                        "isCorrect": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "9fvds0",
+        "title": "Questionnaire géographique!",
+        "description": "Questions en rapport avec les pays du monde.",
+        "duration": 60,
+        "isVisible": true,
+        "lastModification": "2018-11-13T20:20:39+00:00",
+        "questions": [
+            {
+                "type": "QCM",
+                "text": "Quel est le plus grand pays du monde?",
+                "points": 40,
+                "choices": [
+                    {
+                        "text": "Canada",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Chine",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Russie",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "États-Unis",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "type": "QCM",
+                "text": "Quel pays a le plus d'habitants?",
+                "points": 60,
+                "choices": [
+                    {
+                        "text": "Chine",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Inde",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "États-Unis",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Indonésie",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "type": "QCM",
+                "text": "Il y a t'il toujours eu un total de 7 continents?",
+                "points": 20,
+                "choices": [
+                    {
+                        "text": "Non",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "Oui",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    }
+]

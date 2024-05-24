@@ -1,0 +1,67 @@
+[
+    {
+        "questions": [
+            {
+                "type": "QCM",
+                "text": "Qui était le premier ministre du canada en 2023?",
+                "points": 40,
+                "choices": [
+                    {
+                        "text": "James Bond",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "François Legault",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Justin Trudeau",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "Donald Trump",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "type": "QCM",
+                "text": "Quels jeux ont été développés par Riot Games?",
+                "points": 60,
+                "choices": [
+                    {
+                        "text": "Fortnite",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "Valorant",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "Rocket League",
+                        "isCorrect": false
+                    },
+                    {
+                        "text": "League of Legends",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "type": "QCM",
+                "text": "Est-ce qu'on peut tourner à droite au feu rouge à Montréal? ",
+                "points": 20,
+                "choices": [
+                    {
+                        "text": "Non",
+                        "isCorrect": true
+                    },
+                    {
+                        "text": "Oui",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    }
+]
